@@ -32,7 +32,7 @@ Postorder: [bad, hate, awful, love, ive, seen, ok, movie]
 Word: awful, frequency: 1, total score: 0
 Word: bad, frequency: 1, total score: 2
 Word: hate, frequency: 1, total score: 0
-Word: ive, frequency: 3, total score: 6
+Word: ive, frequency: 1, total score: 4
 Word: love, frequency: 1, total score: 4
 Word: movie, frequency: 3, total score: 6
 Word: ok, frequency: 1, total score: 2
