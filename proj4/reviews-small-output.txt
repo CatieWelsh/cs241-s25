@@ -1,0 +1,44 @@
+Enter filename: reviews-small.txt
+Number of words is: 19
+Height of the tree is: 8
+After removing stopwords:
+Number of words is: 8
+Height of the tree is: 4
+
+Enter a new review to analyze: i love this movie
+Skipping i (stopword)
+The average sentiment of love is 4.0
+Skipping this (stopword)
+The average sentiment of movie is 2.0
+Sentiment score for this review is 3.0
+
+Enter a new review to analyze: i hate this movie
+Skipping i (stopword)
+The average sentiment of hate is 0.0
+Skipping this (stopword)
+The average sentiment of movie is 2.0
+Sentiment score for this review is 1.0
+
+Enter a new review to analyze: i kind of like this movie
+Skipping i (stopword)
+Skipping kind (stopword)
+Skipping of (stopword)
+Skipping like (stopword)
+Skipping this (stopword)
+The average sentiment of movie is 2.0
+Sentiment score for this review is 2.0
+
+Enter a new review to analyze: i cannot contain my hate for this completely awful movie
+Skipping i (stopword)
+Skipping cannot (stopword)
+Skipping contain (never seen before)
+Skipping my (stopword)
+The average sentiment of hate is 0.0
+Skipping for (stopword)
+Skipping this (stopword)
+Skipping completely (never seen before)
+The average sentiment of awful is 0.0
+The average sentiment of movie is 2.0
+Sentiment score for this review is 0.6666666666666666
+
+Enter a new review to analyze: quit

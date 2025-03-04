@@ -1,0 +1,44 @@
+Enter filename: reviews-big.txt
+Number of words is: 16749
+Height of the tree is: 32
+After removing stopwords:
+Number of words is: 16349
+Height of the tree is: 32
+
+Enter a new review to analyze: i love this movie
+Skipping i (stopword)
+The average sentiment of love is 2.6470588235294117
+Skipping this (stopword)
+The average sentiment of movie is 1.833695652173913
+Sentiment score for this review is 2.2403772378516624
+
+Enter a new review to analyze: i hate this movie
+Skipping i (stopword)
+The average sentiment of hate is 1.5625
+Skipping this (stopword)
+The average sentiment of movie is 1.833695652173913
+Sentiment score for this review is 1.6980978260869564
+
+Enter a new review to analyze: i kind of like this movie
+Skipping i (stopword)
+Skipping kind (stopword)
+Skipping of (stopword)
+Skipping like (stopword)
+Skipping this (stopword)
+The average sentiment of movie is 1.833695652173913
+Sentiment score for this review is 1.833695652173913
+
+Enter a new review to analyze: i cannot contain my hate for this completely awful movie
+Skipping i (stopword)
+Skipping cannot (stopword)
+The average sentiment of contain is 1.0
+Skipping my (stopword)
+The average sentiment of hate is 1.5625
+Skipping for (stopword)
+Skipping this (stopword)
+The average sentiment of completely is 1.5555555555555556
+The average sentiment of awful is 1.0869565217391304
+The average sentiment of movie is 1.833695652173913
+Sentiment score for this review is 1.4077415458937197
+
+Enter a new review to analyze: quit
