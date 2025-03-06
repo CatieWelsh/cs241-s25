@@ -247,9 +247,10 @@ questions:
     2.  Describe whatever help (if any) that you received. Don’t include readings, lectures, and exercises, but do include any help 
 from other sources, such as websites or 
 people (including classmates and friends) and attribute them by name.
-    3.  Describe any serious problems you encountered while writing the program. If your project still has errors in it, describe them and how you tried to fix them.
+    3.  Does your project still have errors in it? If so, describe them and how you tried to fix them.
     4.  Did you do any of the challenges (see below)? If so, explain what you did.
-    5.  List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the assignment, and 
+    5.  How did you apply thoroughness to this project? (related to your mid-semester reflection)
+    6.  List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the assignment, and 
 whether you enjoyed doing it.
 -   Please also add a comment at the top of your program stating your name and a pledge that you have followed the honor code and 
 collaboration policy for this project. This 
