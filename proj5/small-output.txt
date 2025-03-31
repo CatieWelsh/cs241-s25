@@ -1,0 +1,87 @@
+Enter filename of text to read: small.txt
+Enter size of hash table: 5
+Entries in table: 17
+Index 0 (5): [{key=mo, value=1}, {key=me, value=2}, {key=their, value=4}, {key=this, value=6}, {key=them, value=4}]
+Index 1 (6): [{key=mu, value=1}, {key=ma, value=1}, {key=there, value=6}, {key=then, value=3}, {key=though, value=2}, {key=the, value=9}]
+Index 2 (3): [{key=than, value=1}, {key=think, value=2}, {key=they, value=5}]
+Index 3 (1): [{key=thing, value=1}]
+Index 4 (2): [{key=mi, value=1}, {key=thought, value=1}]
+
+Enter a word, or 'stop' to end: m
+Autocomplete: me
+Autocorrect (order might be different):
+  [ma, me, mi, mo, mu]
+Best suggestions (order should match):
+  [me, ma, mi, mo, mu]
+
+Enter a word, or 'stop' to end: t
+Autocomplete: the
+Autocorrect (order might be different):
+  []
+Best suggestions (order should match):
+  [the]
+
+Enter a word, or 'stop' to end: th
+Autocomplete: the
+Autocorrect (order might be different):
+  [the]
+Best suggestions (order should match):
+  [the]
+
+Enter a word, or 'stop' to end: the
+Autocomplete: the
+Autocorrect (order might be different):
+  [they, them, then, the]
+Best suggestions (order should match):
+  [the, they, them, then]
+
+Enter a word, or 'stop' to end: thou
+Autocomplete: though
+Autocorrect (order might be different):
+  []
+Best suggestions (order should match):
+  [though]
+
+Enter a word, or 'stop' to end: theg
+Autocomplete: null
+Autocorrect (order might be different):
+  [they, them, then, the]
+Best suggestions (order should match):
+  [the, they, them, then]
+
+Enter a word, or 'stop' to end: thi
+Autocomplete: this
+Autocorrect (order might be different):
+  [the, this]
+Best suggestions (order should match):
+  [the, this]
+
+Enter a word, or 'stop' to end: thin
+Autocomplete: think
+Autocorrect (order might be different):
+  [then, think, thing, this, than]
+Best suggestions (order should match):
+  [this, then, think, than, thing]
+
+Enter a word, or 'stop' to end: thn
+Autocomplete: null
+Autocorrect (order might be different):
+  [then, the, than]
+Best suggestions (order should match):
+  [the, then, than]
+
+Enter a word, or 'stop' to end: thng
+Autocomplete: null
+Autocorrect (order might be different):
+  [thing]
+Best suggestions (order should match):
+  [thing]
+
+Enter a word, or 'stop' to end: thnk
+Autocomplete: null
+Autocorrect (order might be different):
+  [think]
+Best suggestions (order should match):
+  [think]
+
+Enter a word, or 'stop' to end: stop

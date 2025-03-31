@@ -1,0 +1,189 @@
+Enter filename of text to read: nyt.txt
+Enter size of hash table: 23456
+Entries in table: 112418
+Index 0 (2): [{key=alpinist, value=1}, {key=fink, value=5}]
+Index 1 (3): [{key=stryi, value=1}, {key=sulk, value=4}, {key=interfax, value=6}]
+Index 2 (4): [{key=reprimand, value=4}, {key=impair, value=12}, {key=accumulate, value=10}, {key=kissingers, value=2}]
+Index 3 (5): [{key=inca, value=1}, {key=cruguet, value=2}, {key=turmeric, value=10}, {key=pursues, value=12}, {key=finn, value=15}]
+Index 4 (4): [{key=everybodyworksall, value=1}, {key=pursuer, value=5}, {key=fino, value=4}, {key=extricating, value=2}]
+Index 5 (4): [{key=conforma, value=2}, {key=cureduchenne, value=1}, {key=simultaneous, value=20}, {key=fares, value=48}]
+Index 6 (6): [{key=suncor, value=11}, {key=biroshan, value=5}, {key=menils, value=3}, {key=lakeland, value=1}, {key=idolatrous, value=4}, {key=pooria, value=1}]
+Index 7 (4): [{key=lorillard, value=2}, {key=impecunious, value=1}, {key=critter, value=1}, {key=matthias, value=13}]
+Index 8 (5): [{key=citytime, value=1}, {key=jarireul, value=3}, {key=fins, value=8}, {key=finality, value=3}, {key=implications, value=116}]
+Index 9 (2): [{key=undercount, value=1}, {key=mowery, value=1}]
+Index 10 (4): [{key=reseating, value=1}, {key=256739, value=1}, {key=claddagh, value=1}, {key=inch, value=147}]
+Index 11 (6): [{key=potentials, value=1}, {key=vass, value=4}, {key=sulu, value=5}, {key=militaries, value=20}, {key=diagonal, value=8}, {key=delegations, value=9}]
+Index 12 (1): [{key=vast, value=337}]
+Index 13 (5): [{key=161st, value=2}, {key=generosity, value=29}, {key=elusive, value=78}, {key=buyback, value=13}, {key=those, value=6547}]
+Index 14 (3): [{key=lawlessness, value=8}, {key=jockeys, value=17}, {key=consistent, value=179}]
+Index 15 (8): [{key=luciferase, value=2}, {key=sconce, value=3}, {key=mantellos, value=1}, {key=67000, value=8}, {key=countermeasures, value=3}, {key=stymie, value=11}, {key=astutely, value=4}, {key=arthurs, value=3}]
+Index 16 (3): [{key=distills, value=4}, {key=misrepresented, value=8}, {key=meals, value=142}]
+Index 17 (3): [{key=vasy, value=1}, {key=beobryule, value=1}, {key=futons, value=1}]
+Index 18 (6): [{key=imparcial, value=1}, {key=uncultivated, value=1}, {key=namdeul, value=1}, {key=grasslands, value=8}, {key=arab, value=180}, {key=pursued, value=109}]
+Index 19 (6): [{key=overcast, value=12}, {key=kuomintang, value=10}, {key=semmess, value=1}, {key=tablets, value=34}, {key=youth, value=345}, {key=scorers, value=18}]
+Index 20 (8): [{key=uchida, value=3}, {key=damato, value=2}, {key=arad, value=1}, {key=munster, value=2}, {key=gravelly, value=2}, {key=luthra, value=1}, {key=narchitects, value=2}, {key=riffled, value=1}]
+Index 21 (2): [{key=incs, value=1}, {key=palantir, value=21}]
+Index 22 (3): [{key=mealy, value=1}, {key=vases, value=8}, {key=fuentes, value=12}]
+Index 23 (5): [{key=macks, value=2}, {key=thrifting, value=1}, {key=defrocked, value=1}, {key=thawed, value=2}, {key=shelton, value=26}]
+Index 24 (2): [{key=uncoil, value=1}, {key=goldfish, value=3}]
+Index 25 (4): [{key=wregget, value=1}, {key=domagass, value=1}, {key=sweepees, value=2}, {key=gonna, value=65}]
+Index 26 (3): [{key=savas, value=3}, {key=fancily, value=1}, {key=malgeudaero, value=1}]
+Index 27 (8): [{key=canonicity, value=1}, {key=jewison, value=1}, {key=arak, value=1}, {key=geodesic, value=1}, {key=homophone, value=1}, {key=kalenuiks, value=1}, {key=loringhoven, value=1}, {key=rosneft, value=7}]
+Index 28 (7): [{key=vate, value=1}, {key=luguan, value=1}, {key=mismanage, value=1}, {key=torin, value=1}, {key=hospitalcolumbia, value=1}, {key=confine, value=5}, {key=epbs, value=2}]
+Index 29 (1): [{key=aram, value=6}]
+Index 30 (1): [{key=sumi, value=1}]
+Index 31 (3): [{key=nipples, value=1}, {key=seikan, value=1}, {key=paneun, value=2}]
+Index 32 (4): [{key=sahoeneun, value=1}, {key=bicameral, value=1}, {key=recode, value=8}, {key=arap, value=1}]
+Index 33 (4): [{key=aendineun, value=1}, {key=hyperglobalized, value=1}, {key=kinkybootsthemusicalcom, value=1}, {key=parentheticals, value=1}]
+Index 34 (3): [{key=qatars, value=9}, {key=wifes, value=38}, {key=defects, value=79}]
+Index 35 (8): [{key=geofencing, value=1}, {key=walczak, value=1}, {key=aras, value=1}, {key=caterers, value=3}, {key=plage, value=3}, {key=sweepingly, value=1}, {key=leaderboard, value=11}, {key=rulers, value=23}]
+Index 36 (6): [{key=0048, value=1}, {key=meulan, value=1}, {key=sumo, value=3}, {key=antagonisms, value=2}, {key=origami, value=18}, {key=premiums, value=69}]
+Index 37 (3): [{key=giaccherinis, value=3}, {key=shamans, value=3}, {key=armies, value=24}]
+Index 38 (2): [{key=nera, value=3}, {key=wheatleys, value=1}]
+Index 39 (3): [{key=fios, value=7}, {key=rycroft, value=2}, {key=confederacy, value=8}]
+Index 40 (5): [{key=nerc, value=1}, {key=juribdaeyi, value=1}, {key=wallops, value=1}, {key=wifey, value=1}, {key=sums, value=63}]
+Index 41 (5): [{key=grunbergs, value=1}, {key=cholent, value=1}, {key=appling, value=4}, {key=drylaw, value=8}, {key=nerd, value=16}]
+Index 42 (8): [{key=vats, value=6}, {key=paparacina, value=1}, {key=penaltys, value=1}, {key=dishonorable, value=2}, {key=trovatore, value=3}, {key=torrid, value=10}, {key=telescope, value=34}, {key=showcasing, value=30}]
+Index 43 (9): [{key=thoroughness, value=6}, {key=amanpour, value=1}, {key=azzurri, value=2}, {key=bacallao, value=1}, {key=hwang, value=3}, {key=consuls, value=4}, {key=brogan, value=3}, {key=cyclist, value=9}, {key=subscribers, value=78}]
+Index 44 (6): [{key=germinate, value=1}, {key=anonymize, value=1}, {key=qatari, value=9}, {key=births, value=26}, {key=consult, value=44}, {key=finalist, value=40}]
+Index 45 (10): [{key=teibeule, value=1}, {key=yabupushelbergcom, value=1}, {key=northamptonshire, value=1}, {key=farofa, value=1}, {key=disimpacted, value=1}, {key=foundering, value=3}, {key=seidenbaum, value=2}, {key=firestorm, value=21}, {key=gutzon, value=3}, {key=tolerance, value=91}]
+Index 46 (7): [{key=confederada, value=1}, {key=neri, value=5}, {key=colville, value=1}, {key=attenuators, value=1}, {key=knick, value=3}, {key=faltering, value=19}, {key=accelerant, value=4}]
+Index 47 (3): [{key=karmazin, value=2}, {key=encumbrance, value=1}, {key=owls, value=11}]
+Index 48 (7): [{key=arba, value=1}, {key=upcourt, value=3}, {key=affix, value=3}, {key=kibera, value=1}, {key=indo, value=2}, {key=wsoc, value=1}, {key=freeform, value=4}]
+Index 49 (2): [{key=sanfranciscowhaletourscom, value=1}, {key=selldorf, value=7}]
+Index 50 (3): [{key=gijuneuro, value=1}, {key=duluth, value=3}, {key=dolores, value=12}]
+Index 51 (4): [{key=cheetos, value=1}, {key=fairbrass, value=4}, {key=damaso, value=1}, {key=jedis, value=1}]
+Index 52 (2): [{key=areopagitou, value=2}, {key=nero, value=61}]
+Index 53 (4): [{key=suna, value=2}, {key=laughingstock, value=4}, {key=nanthealth, value=2}, {key=finis, value=1}]
+Index 54 (8): [{key=dejan, value=1}, {key=lalon, value=1}, {key=surrealistic, value=4}, {key=lyngstad, value=3}, {key=curried, value=9}, {key=precepts, value=4}, {key=unanswered, value=36}, {key=brown, value=673}]
+Index 55 (8): [{key=gorbunova, value=3}, {key=wagged, value=1}, {key=corsini, value=12}, {key=damask, value=5}, {key=electrifying, value=14}, {key=kingsnorth, value=1}, {key=foreheads, value=2}, {key=desperations, value=1}]
+Index 56 (7): [{key=teevens, value=4}, {key=prerock, value=2}, {key=midring, value=1}, {key=ivaris, value=2}, {key=freiberg, value=1}, {key=observance, value=6}, {key=lockwood, value=5}]
+Index 57 (1): [{key=subleases, value=1}]
+Index 58 (4): [{key=voutsa, value=2}, {key=vaud, value=2}, {key=tzatziki, value=1}, {key=indy, value=15}]
+Index 59 (5): [{key=sired, value=4}, {key=sazerac, value=1}, {key=brows, value=9}, {key=maganoheun, value=1}, {key=sung, value=53}]
+Index 60 (4): [{key=juwono, value=1}, {key=marcopoulos, value=1}, {key=skewers, value=15}, {key=consume, value=49}]
+Index 61 (4): [{key=zimpher, value=10}, {key=tanabe, value=1}, {key=parmigiano, value=2}, {key=company, value=5682}]
+Index 62 (7): [{key=bobtowne, value=1}, {key=antimigrant, value=1}, {key=apollotheaterorg, value=1}, {key=plaha, value=1}, {key=tyagi, value=2}, {key=undergoing, value=46}, {key=brodziak, value=3}]
+Index 63 (5): [{key=mantler, value=2}, {key=ihram, value=1}, {key=0054, value=1}, {key=sunk, value=23}, {key=fargo, value=87}]
+Index 64 (6): [{key=tordesillas, value=2}, {key=preshow, value=1}, {key=styluses, value=1}, {key=hunts, value=21}, {key=kaurs, value=2}, {key=bodies, value=375}]
+Index 65 (6): [{key=0056, value=1}, {key=spanakopita, value=1}, {key=marvilles, value=1}, {key=falsehood, value=2}, {key=2143062076, value=1}, {key=silence, value=197}]
+Index 66 (2): [{key=sunn, value=1}, {key=cannibalistic, value=1}]
+Index 67 (7): [{key=mekongbarcom, value=1}, {key=kyla, value=1}, {key=dareuge, value=1}, {key=defrost, value=1}, {key=wondra, value=1}, {key=suno, value=1}, {key=caribbean, value=95}]
+Index 68 (6): [{key=paletas, value=1}, {key=paneth, value=1}, {key=dilaudid, value=1}, {key=maximiliano, value=1}, {key=sedated, value=5}, {key=currier, value=2}]
+Index 69 (3): [{key=curries, value=2}, {key=siren, value=26}, {key=albrecht, value=9}]
+Index 70 (0): []
+Index 71 (5): [{key=harrells, value=2}, {key=buddhas, value=13}, {key=donnes, value=2}, {key=kyle, value=117}, {key=suns, value=42}]
+Index 72 (2): [{key=analysisthere, value=1}, {key=donner, value=2}]
+Index 73 (6): [{key=rendells, value=1}, {key=infantrymen, value=1}, {key=nese, value=13}, {key=breastplate, value=1}, {key=sirer, value=6}, {key=overlord, value=3}]
+Index 74 (5): [{key=sires, value=1}, {key=keunil, value=1}, {key=ozunas, value=1}, {key=pushkin, value=3}, {key=rhine, value=15}]
+Index 75 (5): [{key=kyli, value=1}, {key=stokely, value=1}, {key=parmigiana, value=1}, {key=compagnie, value=2}, {key=kotlebas, value=1}]
+Index 76 (2): [{key=aarhus, value=1}, {key=illuminate, value=16}]
+Index 77 (4): [{key=tasseled, value=1}, {key=catellani, value=2}, {key=murad, value=2}, {key=suny, value=44}]
+Index 78 (7): [{key=decontaminate, value=1}, {key=letoile, value=3}, {key=donnel, value=1}, {key=distancing, value=10}, {key=vaux, value=3}, {key=youve, value=486}, {key=means, value=1047}]
+Index 79 (3): [{key=restart, value=23}, {key=bodied, value=21}, {key=meant, value=660}]
+Index 80 (5): [{key=whipsawed, value=2}, {key=illuminati, value=4}, {key=avraham, value=2}, {key=lakers, value=109}, {key=derriere, value=2}]
+Index 81 (4): [{key=collectivedesignfaircom, value=2}, {key=unofficially, value=5}, {key=tarlabasi, value=2}, {key=xiaoping, value=9}]
+Index 82 (5): [{key=peddicord, value=1}, {key=benching, value=2}, {key=socal, value=1}, {key=sinicization, value=2}, {key=byrne, value=33}]
+Index 83 (6): [{key=gilliam, value=1}, {key=rudins, value=3}, {key=arce, value=1}, {key=cabreras, value=5}, {key=ines, value=5}, {key=titanics, value=2}]
+Index 84 (9): [{key=keitel, value=1}, {key=cauda, value=1}, {key=amnuaysirichoke, value=1}, {key=felicias, value=1}, {key=multisided, value=19}, {key=airier, value=2}, {key=undresses, value=1}, {key=rhino, value=5}, {key=gillian, value=17}]
+Index 85 (6): [{key=davood, value=1}, {key=dzhelalov, value=3}, {key=mildness, value=1}, {key=kaminski, value=9}, {key=disingenuous, value=6}, {key=mural, value=41}]
+Index 86 (5): [{key=stenographer, value=1}, {key=baeyi, value=1}, {key=arch, value=35}, {key=donned, value=8}, {key=osman, value=4}]
+Index 87 (5): [{key=aromatics, value=3}, {key=dalai, value=36}, {key=ness, value=12}, {key=contradict, value=17}, {key=seahawks, value=14}]
+Index 88 (8): [{key=helpah, value=2}, {key=farhi, value=1}, {key=musawi, value=1}, {key=alraeseukawa, value=1}, {key=57956, value=1}, {key=askance, value=2}, {key=troubadours, value=3}, {key=nest, value=106}]
+Index 89 (1): [{key=thursdays, value=128}]
+Index 90 (4): [{key=conners, value=4}, {key=inez, value=2}, {key=zamarra, value=1}, {key=gilliat, value=1}]
+Index 91 (2): [{key=kerith, value=1}, {key=proceeds, value=97}]
+Index 92 (4): [{key=mcbitty, value=1}, {key=paines, value=1}, {key=dalan, value=1}, {key=coiffed, value=1}]
+Index 93 (7): [{key=reavess, value=1}, {key=dawkins, value=10}, {key=fratelli, value=1}, {key=lizards, value=16}, {key=arco, value=2}, {key=offline, value=14}, {key=compilation, value=21}]
+Index 94 (3): [{key=0064, value=1}, {key=busbee, value=2}, {key=chronically, value=23}]
+Index 95 (2): [{key=militos, value=1}, {key=landrys, value=2}]
+Index 96 (7): [{key=broadleaf, value=1}, {key=connery, value=2}, {key=luthor, value=1}, {key=zimbabwean, value=3}, {key=yangon, value=7}, {key=plaid, value=19}, {key=sniping, value=7}]
+Index 97 (4): [{key=arcs, value=7}, {key=provocateurs, value=3}, {key=motherhood, value=19}, {key=littlefinger, value=22}]
+Index 98 (2): [{key=taeudorog, value=1}, {key=ireohan, value=1}]
+Index 99 (2): [{key=undressed, value=3}, {key=transmits, value=6}]
+
+Enter a word, or 'stop' to end: t
+Autocomplete: the
+Autocorrect (order might be different):
+  [tt, tu, tv, tx, pt, ty, lt, dt, ut, mt, it, et, at, vt, rt, nt, jt, ft, bt, st, ot, ta, gt, tb, td, te, ct, tf, th, ti, tj, tm, to, tp, tr, ts]
+Best suggestions (order should match):
+  [the, to, it, at, st, tv, lt, et, vt, tu, ti, td, ut, mt, ta, ft, ts, tj, ct, ty, bt, gt, pt, tt, tb, te, dt, nt, jt, rt, th, tx, ot, tf, tm, tp, tr]
+
+Enter a word, or 'stop' to end: th
+Autocomplete: the
+Autocorrect (order might be different):
+  [ah, bh, nth, rth, tha, ta, tb, thc, td, the, te, tf, th, thi, ti, tj, tm, tho, to, tp, tr, ts, tt, thu, tu, tv, tx, dh, thy, ty, uh, tah, mh, eh, nh, fh, wh, oh, ph]
+Best suggestions (order should match):
+  [the, to, tv, oh, mh, tu, nh, ti, ah, td, ta, uh, ts, tj, thc, dh, thy, ty, eh, thi, tt, ph, tb, te, nth, rth, th, tha, tx, bh, fh, tah, tf, tho, thu, tm, tp, tr, wh]
+
+Enter a word, or 'stop' to end: the
+Autocomplete: the
+Autocorrect (order might be different):
+  [tee, they, ahe, tve, thee, thea, theo, them, then, toe, tha, thc, the, te, th, thi, tho, thu, tye, thy, rthe, tie, tae, che, tre, thie, she, he]
+Best suggestions (order should match):
+  [the, he, they, she, them, then, tie, toe, tee, theo, thc, thee, thy, thi, che, te, tye, tae, tre, ahe, th, tha, thea, thie, rthe, tho, thu, tve]
+
+Enter a word, or 'stop' to end: theg
+Autocomplete: thegandernyccom
+Autocorrect (order might be different):
+  [they, thee, thea, theo, them, then, thug, the]
+Best suggestions (order should match):
+  [the, they, them, then, theo, thee, thug, thea, thegandernyccom]
+
+Enter a word, or 'stop' to end: they
+Autocomplete: they
+Autocorrect (order might be different):
+  [they, thee, thea, theo, them, then, thuy, the, thy, hey, whey, trey, theyd]
+Best suggestions (order should match):
+  [the, they, them, then, hey, theyd, theo, thee, trey, thy, thea, thuy, whey]
+
+Enter a word, or 'stop' to end: thoght
+Autocomplete: null
+Autocorrect (order might be different):
+  [thought]
+Best suggestions (order should match):
+  [thought]
+
+Enter a word, or 'stop' to end: parti
+Autocomplete: particularly
+Autocorrect (order might be different):
+  [patti, pati, marti, parto, parte, parti, parts, party, pasti, parsi, zarti, prati, aarti, part]
+Best suggestions (order should match):
+  [part, party, particularly, parts, patti, marti, prati, pasti, zarti, parte, parto, aarti, parsi, parti, pati]
+
+Enter a word, or 'stop' to end: iphne
+Autocomplete: null
+Autocorrect (order might be different):
+  [iphone]
+Best suggestions (order should match):
+  [iphone]
+
+Enter a word, or 'stop' to end: univers
+Autocomplete: university
+Autocorrect (order might be different):
+  [nivers, universe, unvers]
+Best suggestions (order should match):
+  [university, universe, nivers, unvers]
+
+Enter a word, or 'stop' to end: struct
+Autocomplete: structure
+Autocorrect (order might be different):
+  [strut, strict, struck, strutt]
+Best suggestions (order should match):
+  [struck, structure, strict, strut, strutt]
+
+Enter a word, or 'stop' to end: probailistic
+Autocomplete: null
+Autocorrect (order might be different):
+  [probabilistic]
+Best suggestions (order should match):
+  [probabilistic]
+
+Enter a word, or 'stop' to end: probable
+Autocomplete: probable
+Autocorrect (order might be different):
+  [probables, provable, probable, probably]
+Best suggestions (order should match):
+  [probably, probable, probables, provable]
+
+Enter a word, or 'stop' to end: stop
