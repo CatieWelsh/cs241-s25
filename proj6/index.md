@@ -143,5 +143,5 @@ and on coding style.
 
 ### Turning in the project
 
-Upload `DijkstrasAlgorithm.java`.  No other files are needed.
+Upload `DijkstrasAlgorithm.java`, as well as your text file answering the required questions. No other files are needed.
 
